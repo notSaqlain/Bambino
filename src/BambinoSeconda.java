@@ -13,7 +13,7 @@ public class BambinoSeconda extends Bambino{
 
         System.out.println("La somma è " + accumulatore);
 
-        this.ripeti();
+        // this.ripeti();
         
     }
     
