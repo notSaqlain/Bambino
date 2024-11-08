@@ -11,7 +11,7 @@ public class BambinoSeconda extends Bambino{
             accumulatore += i;
         }
 
-        System.out.println("La somma è " + accomulatrice);
+        System.out.println("La somma è " + accumulatore);
 
         this.ripeti();
         
