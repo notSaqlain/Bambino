@@ -8,7 +8,7 @@ public class Bambino {
     
     public void ripeti() {
         for (int i:nums) {
-            System.out.println("Il bambino dice " + i);
+            System.out.println("BATT dice " + i);
         }
     }
     
